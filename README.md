@@ -7,6 +7,8 @@ Chrysoula Maria Nampouri
 Marios Souroulla  
 Filippos Andreadis  
 
+You can find the scientific report [here](https://github.com/philip-andreadis/Machine-Learning-Rug/blob/main/Group23_Semester_project_report.pdf)
+
 <h2 id="environment-setup">Environment setup</h2>
 <hr>
 <p>The python version this code was tested on is python 3.10, although it should work for earlier versions as well. To create the environment execute the following commands in succession:</p>
