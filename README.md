@@ -1,10 +1,9 @@
 <h1 id="machinelearning_rug">MachineLearning_RUG</h1>
 Authors:  
 
+  
 Christodoulos Hadjichristodoulou  
-
 Chrysoula Maria Nampouri  
-
 Marios Souroulla  
 Filippos Andreadis  
 
