@@ -1,9 +1,13 @@
 <h1 id="machinelearning_rug">MachineLearning_RUG</h1>
 Authors:  
 
-Christodoulos Hadjichristodoulou
-Chrysoula Maria Nampouri
-Marios Souroulla
+Christodoulos Hadjichristodoulou  
+
+Chrysoula Maria Nampouri  
+
+Marios Souroulla  
+Filippos Andreadis  
+
 <h2 id="environment-setup">Environment setup</h2>
 <hr>
 <p>The python version this code was tested on is python 3.10, although it should work for earlier versions as well. To create the environment execute the following commands in succession:</p>
